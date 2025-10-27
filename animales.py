@@ -8,7 +8,8 @@ def mostrar_animales():
         "Gato",
         "Loro",
 	"Vaca",
-	"Cocodrilo"
+	"Cocodrilo",
+	"Mosquito"
     ]
     for a in animales:
         print("Animal:", a)
